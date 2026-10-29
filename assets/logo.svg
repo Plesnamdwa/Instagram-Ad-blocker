@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="108" height="108">
+  <!-- NeoBrutalism Yellow Rounded App Icon with Black Border -->
+  <rect x="2" y="2" width="104" height="104" rx="22" fill="#FFE600" stroke="#000000" stroke-width="4" />
+  <!-- Shield Emblem -->
+  <path fill="#000000" d="M54,18 L24,31.33 v20 c0,18.5 12.8,35.8 30,40 c17.2,-4.2 30,-21.5 30,-40 v-20 L54,18 z M54,54.63 h23.33 c-1.77,13.73 -10.93,25.97 -23.33,29.8 V54.63 H30.67 V35.67 L54,25.3 v29.33 z" />
+</svg>

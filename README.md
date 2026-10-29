@@ -1,7 +1,7 @@
 # 🛡️ IG Scroll Guard
 
 <p align="center">
-  <img src="app/src/main/res/drawable/ic_launcher_foreground.xml" width="100" height="100" alt="IG Scroll Guard Icon" />
+  <img src="assets/logo.svg" width="108" height="108" alt="IG Scroll Guard Icon" />
 </p>
 
 <p align="center">
