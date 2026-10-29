@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.IGScrollGuard" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@color/neo_canvas</item>
+        <item name="android:statusBarColor">@color/neo_yellow</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorPrimary">@color/neo_black</item>
+        <item name="colorOnPrimary">@color/neo_white</item>
+    </style>
+</resources>

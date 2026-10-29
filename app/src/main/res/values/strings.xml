@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">IG Scroll Guard</string>
+    <string name="tile_label">IG Scroll Guard</string>
+    <string name="accessibility_service_name">IG Scroll Guard - Penjaga Iklan</string>
+    <string name="accessibility_service_desc">Mendeteksi dan menahan lemparan iklan secara otomatis saat browsing Instagram di perangkat Xiaomi.</string>
+
+    <!-- Header UI -->
+    <string name="header_title">IG SCROLL GUARD</string>
+    <string name="header_subtitle">MIUI &amp; HyperOS Optimized</string>
+    <string name="status_active">STATUS: AKTIF</string>
+    <string name="status_paused">STATUS: DIJEDA</string>
+    <string name="status_inactive">STATUS: NONAKTIF</string>
+
+    <!-- Switches -->
+    <string name="switch_service_title">1. Aktifkan Penjaga Aksesibilitas (State Memory)</string>
+    <string name="switch_service_desc">Memonitor keyword iklan Instagram, in-app browser, dan mencegah lemparan link luar.</string>
+
+    <string name="switch_autoswipe_title">2. Mode Auto-Swipe Iklan</string>
+    <string name="switch_autoswipe_desc">Otomatis menggulir ke atas (swipe up) seketika saat post bersponsor terdeteksi.</string>
+
+    <!-- Xiaomi Section -->
+    <string name="section_xiaomi_title">PENGATURAN WAJIB XIAOMI (MIUI/HyperOS)</string>
+    <string name="section_xiaomi_desc">Wajib diatur agar layanan aksesibilitas tidak dimatikan paksa oleh sistem MIUI:</string>
+    <string name="btn_autostart_title">1. Kunci Autostart &amp; Baterai Xiaomi</string>
+    <string name="btn_autostart_subtitle">Aktifkan Autostart dan atur Baterai menjadi \"Tidak Ada Pembatasan\".</string>
+    <string name="btn_default_apps_title">2. Atur Default Browser &amp; Link</string>
+    <string name="btn_default_apps_subtitle">Kelola aplikasi default untuk pembukaan link web.</string>
+    <string name="btn_manage_links_title">3. Matikan Deep Link Shopee/Tokopedia</string>
+    <string name="btn_manage_links_subtitle">Matikan fitur \"Buka tautan yang didukung\" pada aplikasi E-Commerce.</string>
+
+    <!-- Toasts -->
+    <string name="toast_open_accessibility">Silakan aktifkan \"IG Scroll Guard\" di menu Pengaturan Aksesibilitas.</string>
+    <string name="toast_autostart_instructions">Nyalakan Autostart dan ubah Penghemat Baterai menjadi Tidak Ada Pembatasan</string>
+</resources>

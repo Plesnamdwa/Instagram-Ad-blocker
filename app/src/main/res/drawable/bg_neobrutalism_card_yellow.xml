@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Hard Black Shadow (Offset 4dp) -->
+    <item
+        android:left="4dp"
+        android:top="4dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/neo_black" />
+            <corners android:radius="12dp" />
+        </shape>
+    </item>
+
+    <!-- Foreground Surface Yellow with 3dp Black Border -->
+    <item
+        android:right="4dp"
+        android:bottom="4dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/neo_yellow" />
+            <stroke
+                android:width="3dp"
+                android:color="@color/neo_black" />
+            <corners android:radius="12dp" />
+        </shape>
+    </item>
+</layer-list>
